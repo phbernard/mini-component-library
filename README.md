@@ -1,5 +1,10 @@
 # Component Library Workshop
 
+## Note to Josh
+
+In case you review this: I was so eager to go to the flex module, I skip the Select and IconInput parts :-/
+
+
 In this workshop, we'll build 3 components from scratch:
 
 1. ProgressBar
